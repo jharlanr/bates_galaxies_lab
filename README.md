@@ -1,5 +1,4 @@
 # bates_galaxies_lab
-2016-2017 senior thesis code
 
 This repository includes code developed by members of the Bates
 Galaxies Lab (sometimes called "the bagel," which in principle could
@@ -7,7 +6,7 @@ stand for Bates Astrophysics Galaxy Evolution Lab) at Bates College in
 Lewiston, Maine.  Current lab members (as of the Fall 2016 semester),
 include Aleks Diamond-Stanic (Assistant Professor of Physics and
 Astronomy), Sophia Gottlieb (senior physics major, class of 2017), and
-Joshua Rines (senior physics/math major, class of 2017).
+Joshua Rines (senior physics major, class of 2017).
 
 # ad_centroid.py
 
@@ -120,3 +119,9 @@ Awesome code being developed by Sophia Gottlieb
 # sg_image_stamp.py
 
 # sg_phot_sed.py
+
+
+
+
+
+
